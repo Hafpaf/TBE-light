@@ -1,0 +1,33 @@
+Comment,Designator,Footprint,JLCPCB Part #
+4.7uF,"C1, C2, C3, C4, C5",Capacitor_SMD:C_0805_2012Metric,C151869
+18pF,"C6, C7, C14",Capacitor_SMD:C_0805_2012Metric,C182489
+100nF,C8,Capacitor_SMD:C_0603_1608Metric,C88136
+1uF,C9,Capacitor_SMD:C_0603_1608Metric,C90540
+270pF,C10,Capacitor_SMD:C_0603_1608Metric,C501846
+100nF,"C11, C12, C13",Capacitor_SMD:C_0603_1608Metric,C88136
+MountingHole_Pad,"H1, H2, H3, H4, H5, H6",MountingHole:MountingHole_3.2mm_M3_Pad,NA
+FTDI,J1,Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical,NA
+Barrel_Jack_Switch,J2,Connector_BarrelJack:BarrelJack_GCT_DCJ200-10-A_Horizontal,NA
+USB_B_Mini,J5,Connector_USB:USB_Micro-AB_Molex_47590-0001,C136001
+RJ45_Amphenol_RJMG1BD3B8K1ANR,J7,Connector_RJ:RJ45_Amphenol_RJMG1BD3B8K1ANR,C163507
+Screw_Terminal_01x03,"J8, J9",Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical,NA
+FTDI-VCC,JP1,Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm,NA
+FB/30R,L1,Inductor_SMD:L_0805_2012Metric,C16903
+12K,"R1, R2",Resistor_SMD:R_0603_1608Metric,C269454
+10R,"R3, R4, R6, R7",Resistor_SMD:R_0603_1608Metric,C22859
+4.7K,R5,Capacitor_SMD:C_0805_2012Metric,C17673
+4.7K,R8,Resistor_SMD:R_0603_1608Metric,C23162
+1.5K,R9,Resistor_SMD:R_0603_1608Metric,C22843
+12.1K,R10,Resistor_SMD:R_0603_1608Metric,C22864
+49R9,"R11, R12, R13, R14",Resistor_SMD:R_0603_1608Metric,C114625
+330R,"R15, R16",Resistor_SMD:R_0603_1608Metric,C23138
+62R,R17,Resistor_SMD:R_0603_1608Metric,C23222
+62R,R18,Resistor_SMD:R_0603_1608Metric,C23222
+Reset,SW1,Button_Switch_THT:SW_PUSH_6mm,C13828
+Button,SW2,Button_Switch_THT:SW_PUSH_6mm,C13828
+AMS1117-3.3,U1,Package_TO_SOT_SMD:SOT-223-3_TabPin2,C173386
+ESP32-WROOM-32,U2,RF_Module:ESP32-WROOM-32,C473012
+LAN8720A,U3,Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm,C45223
+SN74LV4T125,U4,Package_SO:TSSOP-14_4.4x5mm_P0.65mm,C90755
+LM2596,U6,LM2596-module:LM2596-Module,NA
+25MHz,Y1,Crystal:Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm,C90913
