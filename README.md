@@ -1,7 +1,7 @@
 # TBE light
 These are the source files for TBE lights shown at MCH2022. Original wiki page can be found here: [wiki.mch2022.org](https://wiki.mch2022.org/TBE_light)
 
-<img src="assets/tbe_light_installation.jpg" alt="TBE Light Installation" width="50%" height="auto">
+<img src="assets/tbe_light_installation.jpg" alt="TBE Light Installation" width="auto" height="300px">
 
 ## Credits
 This project was funded by the [IFCAT foundation](https://ifcat.org/) for the technology festival [MCH2022](https://mch2022.org/).
